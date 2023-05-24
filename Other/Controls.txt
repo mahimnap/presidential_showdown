@@ -1,0 +1,11 @@
+Player 1:
+Movement: WASD 
+Shield: Shift
+Fire: Space
+Missile: M 
+
+Player 2: 
+Movement: Arrows 
+Sheild: |\
+Fire: Enter 
+Missile: Backspace 
